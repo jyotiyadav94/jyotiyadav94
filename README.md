@@ -4,7 +4,7 @@
 <a href="https://www.facebook.com/jumbo.yadav/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a><img src="https://visitor-badge.laobi.icu/badge?page_id=lorenzo-stacchio.lorenzo-stacchio" alt="visitors"></a>
 <p>
-Master student in Artifical Intelligence at <a href="https://www.unibo.it/it">University of Bologna</a> <img src="https://media.giphy.com/media/LNrWZ1Cl70uDOWW5rH/giphy.gif" width="50"></br>
+Master's student in Artifical Intelligence at <a href="https://www.unibo.it/it">University of Bologna</a> <img src="https://media.giphy.com/media/LNrWZ1Cl70uDOWW5rH/giphy.gif" width="50"></br>
 Artificial intelligence and data science enthusiast  <img src="https://media.giphy.com/media/ckJF143W1gBS8Hk833/giphy.gif" width="50"> 
 </p>
 
