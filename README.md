@@ -13,7 +13,7 @@
 </a>
 
 ## About Me
-- 📊 Data Scientist with 1 year of experience
+- 📊 Data Scientist with 2 year of experience
 - 🎓 Master's in Artificial Intelligence
 - 💼 Currently contributing to Learning
 - 🚀 Passionate about leveraging data to drive insights and solve complex problems
