@@ -15,7 +15,7 @@
 ## About Me
 - 📊 Data Scientist with 1 year of experience
 - 🎓 Master's in Artificial Intelligence
-- 💼 Currently contributing to [Your Current Company/Organization]
+- 💼 Currently contributing to Learning
 - 🚀 Passionate about leveraging data to drive insights and solve complex problems
 - 💡 Keen on continuous learning and staying updated with the latest trends in data science
 
