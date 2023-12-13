@@ -13,11 +13,19 @@
 </a>
 
 ## About Me
-- 📊 Data Scientist with 2 year of experience
-- 🎓 Master's in Artificial Intelligence
+- 📊 Data Scientist with 2 years of experience
+- 🎓 Master's in Artificial Intelligence, University of Bologna, Italy [98/110]
+- 🚀 Open to roles in EU related to Artificial Intelligence & Data Science
 - 💼 Currently contributing to Learning
-- 🚀 Passionate about leveraging data to drive insights and solve complex problems
 - 💡 Keen on continuous learning and staying updated with the latest trends in data science
+
+### Education
+- **Masters’ Artificial Intelligence, University of Bologna, Italy** [98/110]
+  - Sep 2020 - March 2023
+  - Subjects: NLP, Computer Vision, Machine Learning & Deep Learning, Combinatorial Decision Making & Optimization, Language & Algorithm for AI, Data Mining, Text Mining & Big Data Analytics, AI in Industry, Blockchain.
+
+- **B.Tech. Electronics & Communications, JNTUK Kakinada, India** [80.3/100]
+  - Aug 2014 - Jul 2018
 
 ### Languages
 - Python
