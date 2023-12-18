@@ -25,7 +25,7 @@
   - Subjects: NLP, Computer Vision, Machine Learning & Deep Learning, Combinatorial Decision Making & Optimization, Language & Algorithm for AI, Data Mining, Text Mining & Big Data Analytics, AI in Industry, Blockchain.
 
 - **B.Tech. Electronics & Communications, JNTUK Kakinada, India** [80.3/100]
-  - Aug 2014 - Jul 2018
+  - Aug 2013 - May 2016
 
 ### Languages
 - Python
