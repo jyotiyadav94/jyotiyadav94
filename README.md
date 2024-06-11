@@ -12,6 +12,21 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jyotiyadav94.jyotiyadav94" alt="visitors">
 </a>
 
+---
+
+<p align="center">
+<a href="https://github.com/jyotiyadav94">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jyotiyadav94&show_icons=true&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiyadav94&theme=tokyonight&show_icons=true"/>
+  
+  <img height="140" width = "340" src="https://leetcard.jacoblin.cool/jyotiyadav1994??theme=unicorn?animation=true"/>
+  <img height="140" width = "250" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotiyadav94&layout=compact&theme=tokyonight&count_private=true&langs_count=10" alt="jyotiyadav94"/>
+</a>
+</p>
+
+---
+
+
 ## About Me
 - 📊 Data Scientist with 2 years of experience
 - 🎓 Master's in Artificial Intelligence, University of Bologna, Italy [98/110]
@@ -51,9 +66,8 @@
 - Scikit Learn
 - BERT
 - Transformers
-
-### LLM 
-- Fine-Tuning Experience
+- LLMs
+- Agents
 
 ### Certifications
 - Google Cloud Certification: Machine Learning Engineer Professional Certificate (Coursera)
