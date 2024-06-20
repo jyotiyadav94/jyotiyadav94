@@ -28,7 +28,7 @@
 
 
 ## About Me
-- 📊 Data Scientist with 2 years of experience
+- 📊 4 years as Software Engineer & 2 years as Data Scientist experience
 - 🎓 Master's in Artificial Intelligence, University of Bologna, Italy [98/110]
 - 🚀 Open to roles in EU related to Artificial Intelligence & Data Science
 - 💼 Currently contributing to Learning
