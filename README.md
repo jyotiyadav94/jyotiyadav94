@@ -58,16 +58,38 @@
 - TensorFlow & Keras
 - PyTorch
 - Docker
-- AWS
-- Microsoft Azure
-- Google Cloud Platform
 - Flask
+- FastAPI
 - Spacy
 - Scikit Learn
 - BERT
 - Transformers
 - LLMs
 - Agents
+
+
+### Cloud Platforms
+- Amazon Web Services
+- Google Cloud Platform 
+- Microsoft Azure Platform
+
+### MLOPS
+- DVC
+- Github
+- MLFLOW
+- Github Actions (CI/CD)
+
+
+### Containerization
+- docker
+- docker-compose.yaml
+
+### Orchestration
+- Apache Airflow
+
+### Retrieval Augmented Generation
+- LLamaIndex
+- Langchain
 
 ### Certifications
 - Google Cloud Certification: Machine Learning Engineer Professional Certificate (Coursera)
